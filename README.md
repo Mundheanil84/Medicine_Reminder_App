@@ -23,6 +23,12 @@ A cross-platform medication management solution built with React Native and Expo
 - **Data Storage**: AsyncStorage
 
 ## Installation
+npm install
+
+## Launch development server:
+
+bash
+npx expo start
 
 ### Prerequisites
 - Node.js (version 16 or higher recommended)
@@ -52,7 +58,7 @@ Android Emulator: Press a in terminal after starting
 
 Physical Device: Scan displayed QR code with Expo Go app
 
-Project Structure
+## Project Structure
 text
 meditrack/
 ├── app/                  # Primary application directory
